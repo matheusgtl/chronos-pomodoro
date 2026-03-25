@@ -1,0 +1,12 @@
+.container { /* limitar o conteúdo ao centro da tela*/
+    max-width: 98rem;
+    margin: 0 auto;
+}
+
+.container-fluid { /* conteúdo esticado na tela toda */ 
+    max-width: auto;
+}
+
+.content { /* conteúdo */
+    margin: 3.2rem;
+}
